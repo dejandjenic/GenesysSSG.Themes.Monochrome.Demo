@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"><channel>
+  <title>My blog</title>
+  <link></link>
+  <description>some cool line</description>
+<item>
+    <title>Sample article 3</title>
+    <link>/GenesysSSG.Themes.Monochrome.Demo/blogs/nibhte-llusmoles-tienuncn-on.html</link>
+    <description>Nibh tellus molestie nunc non</description>
+  </item>
+<item>
+    <title>Sample article 4</title>
+    <link>/GenesysSSG.Themes.Monochrome.Demo/blogs/sedeu-ismod-nisiportalore-mmollis-aliquam.html</link>
+    <description>Sed euismod nisi porta lorem mollis aliquam</description>
+  </item>
+<item>
+    <title>Sample article 5</title>
+    <link>/GenesysSSG.Themes.Monochrome.Demo/blogs/tortordignissi-mconvallisaen-eanetto-rtor-atrisus-viverra.html</link>
+    <description>Tortor dignissim convallis aenean et tortor at risus viverra</description>
+  </item>
+<item>
+    <title>Sample article 1</title>
+    <link>/GenesysSSG.Themes.Monochrome.Demo/blogs/generate-lorem-ipsum-placeholder.html</link>
+    <description>Generate Lorem Ipsum placeholder</description>
+  </item>
+<item>
+    <title>Sample article 2</title>
+    <link>/GenesysSSG.Themes.Monochrome.Demo/blogs/justo-laoreets-itametc-ursussit-amet.html</link>
+    <description>Justo laoreet sit amet cursus sit amet</description>
+  </item>
+<item>
+    <title>About me</title>
+    <link>/about.html</link>
+    <description>About me</description>
+  </item>
+<item>
+    <title>Projects</title>
+    <link>/projects.html</link>
+    <description>Projects</description>
+  </item>
+</channel>
+
+</rss>
